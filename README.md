@@ -6,4 +6,16 @@ newsapi.org is a simple HTTP REST API for searching and retrieving live articles
 
 ## What's shown in this project
 
-
+* Kotlin
+* Coroutines
+* Navigation Components
+* Koin
+* MVVM Architecture
+* Room Persistence
+* Retrofit 2
+* ViewModels
+* WebViews
+* Execute search queries to network and db cache
+* Pagination:
+  * Paging3 Library
+ * Material Design
